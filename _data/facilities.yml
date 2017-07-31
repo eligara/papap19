@@ -24,8 +24,8 @@ science:
     map:
 
   - img: img/facilities/3.jpg
-    title: LNF
-    descr: "The Frascati Research Center of INFN (Italian National Agency for Nuclear Physics) is the biggest and oldest facility for nuclear and subnuclear physics in Italy. It is located in the surroundings of Rome."
+    title: LNF 
+    descr: "The Frascati Research Center of INFN (Italian National Agency for Nuclear Physics) is the biggest and oldest facility for nuclear and subnuclear physics in Italy. It is located in Frascati, in the surroundings of Rome."
     site:
     map:
 
