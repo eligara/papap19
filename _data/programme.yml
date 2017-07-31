@@ -17,14 +17,14 @@ schedule:
       
   - day: Tuesday
     date: "10/10"
-    short_descr: National Laboratories of Frascati and L'Aquila
+    short_descr: National Laboratories of Frascati and L' Aquila
     activity:
       - hour: "Morning"
         descr: "National Laboratories of Frascati"
       - hour: "Afternoon"
-        descr: "Check-in in L'Aquila"
+        descr: "Check-in in L' Aquila"
       - hour: "Evening"
-      - descr: "Dinner in L'Aquila"
+        descr: "Dinner in L' Aquila"
   - day: Wednesday
     date: "11/10"
     short_descr: Gran Sasso National Laboratories 
