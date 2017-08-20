@@ -1,19 +1,9 @@
-info: "<div>
-	Registration will be opened on this page between August 1st and <strike>August 15th</strike>, 2017.</div>
+info: "	
 <div>
-	&nbsp;</div>
+	<strong>Registration Closed</strong></div>
 <div>
-	<strong>Breaking News!</strong></div>
-<div>
-	&nbsp;</div>
-<div>
-	Since the high amount of requests during ICPS2017 in Turin, the registration is now open until the <strong>20th of August</strong>.</div>
-<div>
-	<strong>Registration completed before the 15th will have the priority.</strong></div>
-<div>
-	&nbsp;</div>
-<div>
-	&nbsp;</div>
+  If you sent an application check your email inbox, you'll receive the confirmation at latest tomorrow Monday 21st August at noon. </div>
+	
 </p><p>
 Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a 100 word text to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously (expressing your interest with clarity and good spelling!), as it will be taken into consideration when selecting applicants."
 
@@ -28,7 +18,7 @@ terms:
       url: "#!"
     - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Astroparticle Physics Autumn Programme 2016."
+    - text: "You acknowledge and agree that the organizing committee and th hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Astroparticle Physics Autumn Programme 2016."
       url: "#!"
     - text: "You accept the IAPS Code of Conduct."
       url: "files/IAPS_Code_of_Conduct.pdf"
