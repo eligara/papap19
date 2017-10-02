@@ -19,12 +19,16 @@ schedule:
     date: "10/10"
     short_descr: National Laboratories of Frascati and L' Aquila
     activity:
-      - hour: "Morning"
-        descr: "National Laboratories of Frascati"
-      - hour: "Afternoon"
-        descr: "Check-in in L' Aquila"
-      - hour: "Evening"
-        descr: "Dinner in L' Aquila"
+      - hour: "10.00-11.30"
+        descr: "The INFN National Laboratory of Frascati: overview of infrastructures and activities - Paola Gianotti"
+      - hour: "11.30-13.30"
+        descr: "Visit to Sparc_Lab, Dafne Control Room, AdA and Exhibit 'OpenDetectors'"
+      - hour: "13.30-14.45"
+        descr: "Lunch at LNF canteen"
+      - hour: "15.00"
+        descr: "Departure to L'Aquila"
+      - hour: "evening"
+        descr: "check-in at the Hotel and social dinner"
   - day: Wednesday
     date: "11/10"
     short_descr: Gran Sasso National Laboratories 
