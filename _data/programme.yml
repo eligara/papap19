@@ -49,9 +49,10 @@ schedule:
     date: "13/10"
     short_descr: Return to Rome
     activity:
-      - hour: "Morning"
-        descr: "Check-out from L'Aquila and travel to Rome"
-      
+      - hour: "8.00"
+        descr: "Check-out from L'Aquila and departure to Rome"
+      - hour: "12.00-13.00"
+        descr: "First stop: Roma Termini, second stop: Roma Fiumicino Airport"
 few_info:
   info: ""
   specs:
