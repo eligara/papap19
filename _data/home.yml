@@ -2,9 +2,9 @@ banner: img/banner.png
 
 who: "40 physics students, from the Italian Association of Physics Students and the International Association of Physics Students. All background and nationalities are welcome!"
 
-when: "From the 9th to the 13th of October 2017"
+when: "From the 3th to the 6th of December 2019"
 
-where: "Central Italy, students will meet in Rome and visit the University of Rome - Tor Vergata. On the second day, they will visit INFN laboratories in Frascati. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities."
+where: "Central Italy, students will meet in Rome and visit the University Roma Tre. On the second day, they will visit the University of Roma Tor Vergata and INFN laboratories in Frascati. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities."
 
 slideshow:
   - img: img/LNGS_home.jpg
@@ -23,4 +23,9 @@ slideshow:
     alt: University Rome Tor Vergata
     title: Tor Vergata
     text: University Rome - Tor Vergata
-paragraph: "The Particle & Astroparticle Physics Programme, now at its third edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. <br> The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists."
+  - img: img/Roma_tre.jpg
+    alt: University Roma Tre
+    title: Roma Tre
+    text: University Roma Tre
+    
+paragraph: "The Particle & Astroparticle Physics Programme, now at its fourth edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. <br> The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists."
